@@ -1,16 +1,18 @@
 ### Hi there 👋
+- HSE student ⚡
+- 20 y.o. 💫
+- Machine Learning 🚀
 
-<!--
-**AimorYou/AimorYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=PyTorch)
+![Sklearn](https://img.shields.io/badge/-Sklearn-090909?style=for-the-badge&logo=scikit-learn)
+![Numpy](https://img.shields.io/badge/-Numpy-090909?style=for-the-badge&logo=Numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas)
+![SciPy](https://img.shields.io/badge/-SciPy-090909?style=for-the-badge&logo=SciPy)
+![Opencv](https://img.shields.io/badge/-Opencv-090909?style=for-the-badge&logo=Opencv)
 
-Here are some ideas to get you started:
+### Keep me in touch:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/aimoryou)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/aimoryou)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
