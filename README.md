@@ -1,6 +1,6 @@
 ### Hi there 👋
 - HSE student ⚡
-- 20 y.o. 💫
+- 23 y.o. 💫
 - Machine Learning 🚀
 
 ### Languages and Tools:
